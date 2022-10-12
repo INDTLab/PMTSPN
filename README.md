@@ -1,5 +1,4 @@
 # PMTSPN
-This is a code repository for a paper in BMVC 2022, named 'Unifying the Visual Perception of Humans
-and Machines on Fine-Grained Texture Similarity'.
+Code for "Unifying the Visual Perception of Humans and Machines on Fine-Grained Texture Similarity", BMVC 2022.
 
 We will open the source code soon...
