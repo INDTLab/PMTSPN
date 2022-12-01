@@ -1,3 +1,6 @@
 [submodule "Perceptual-Texture-Similarity-Prediction"]
 	path = Perceptual-Texture-Similarity-Prediction
 	url = git@github.com:gaoying21/Perceptual-Texture-Similarity-Prediction.git
+[submodule "DISTS"]
+	path = DISTS
+	url = git@github.com:dingkeyan93/DISTS.git
