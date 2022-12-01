@@ -24,7 +24,7 @@ The model is $\textit{awaiting}$ open source as we are working on further work.
 
 2. Activate the new environment:
 
-        conda activate <your>env
+        conda activate bmvc
 
 3. Verify that the new environment was installed correctly:
 
