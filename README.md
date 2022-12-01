@@ -40,7 +40,7 @@ You can also use <kbd>conda info --envs</kbd>.
 
 You can also use command like this:
 
-        python main.py -c <cuda.id> -e <epoch> -b <batch_size> -d <dataset> -fp <save_dir> -nn <model_name> -lr <learning_rate>
+    python main.py -c <cuda.id> -e <epoch> -b <batch_size> -d <dataset> -fp <save_dir> -nn <model_name> -lr <learning_rate>
 
 # Results
 
