@@ -1,0 +1,3 @@
+[submodule "Perceptual-Texture-Similarity-Prediction"]
+	path = Perceptual-Texture-Similarity-Prediction
+	url = git@github.com:gaoying21/Perceptual-Texture-Similarity-Prediction.git
