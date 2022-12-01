@@ -4,8 +4,6 @@ import torch.nn.functional as F
 from numpy import *
 
 
-
-
 def train(device, train_loader, valid_loader, optimizer, model, epochs, filepath, modelname):
 
     def train_one_epoch():
