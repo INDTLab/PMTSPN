@@ -41,10 +41,9 @@ def data_loader(dataset_name, batch_size, transforms):
                                                num_workers=1)
     return train_loader, valid_loader
 
-
 class PertexSet(torch.utils.data.Dataset):
     def __init__(self, filepath, label_path, transform):
-        super(PertexSet).__init__()
+        super().__init__()
         self.__load_data__(filepath, label_path, transform)
 
     def __getitem__(self, index):
@@ -72,7 +71,7 @@ class PertexSet(torch.utils.data.Dataset):
 
 class PTDSet(torch.utils.data.Dataset):
     def __init__(self, filepath, label_path, transform):
-        super(PTDSet).__init__()
+        super().__init__()
         self.__load_data__(filepath, label_path, transform)
 
     def __getitem__(self, index):
