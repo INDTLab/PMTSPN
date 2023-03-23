@@ -7,7 +7,7 @@ import matplotlib
 import numpy as np
 
 from torch import optim
-from models import dists
+from Models.PMTSPN import PMTSPN
 from dataer import data_loader
 from trainer import train
 from torchvision import transforms
@@ -44,7 +44,7 @@ if __name__ == '__main__':
                                              batch_size=args.batchsize,
                                              transforms=transforms)
     # model                                        
-    model = dists()
+    model = PMTSPN(device)
     model.to(device)
 
     # optimizer
