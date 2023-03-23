@@ -13,8 +13,6 @@
 ![archioverall](https://user-images.githubusercontent.com/85012818/205044316-995d7972-93ad-4673-b10d-44fd731913a7.png)
 <!-- ![1669618815992](https://user-images.githubusercontent.com/85012818/204213933-9d91852f-cad1-45a1-94a3-23da70fd1857.png) -->
 
-The model is $\textit{awaiting}$ open source as we are working on further work.
-
 # Usage
 ### Installation:
 1. Create the environment from the <kbd>environment.yml</kbd> file:
