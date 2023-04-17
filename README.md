@@ -41,7 +41,9 @@ You can also use command like this:
     python main.py -c <cuda.id> -e <epoch> -b <batch_size> -d <dataset> -fp <save_dir> -nn <model_name> -lr <learning_rate>
 
 # Results
-
+## Revision  
+In Table1, Table2: KLCC -> KRCC  
+In Table1: 0.9376 -> 0.8379
 ![matrixonpertex](https://user-images.githubusercontent.com/85012818/205043674-8a309e54-9443-4295-935c-be9d91b8ba75.png)
 
 
