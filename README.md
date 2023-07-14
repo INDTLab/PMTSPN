@@ -6,6 +6,7 @@
 <a href="https://bmvc2022.mpi-inf.mpg.de/0839_poster.pdf" ><img src="https://img.shields.io/badge/-Poster-ff69b7.svg"></a>
 <a href="https://bmvc2022.mpi-inf.mpg.de/0839_video.mp4" ><img src="https://img.shields.io/badge/-Video-brightgreen.svg"></a>
 <a href="https://bmvc2022.mpi-inf.mpg.de/0839_supp.pdf" ><img src="https://img.shields.io/badge/-Supplementary-green.svg"></a>
+<a href="https://drive.google.com/file/d/1ixW7l4HMrvcSg6KOadQwD--VMBdegL3c/view?usp=sharing" ><img src="https://img.shields.io/badge/-WeightsFiles-blue.svg"></a>
 </p>
 
 # Architecture
@@ -43,12 +44,10 @@ You can also use command like this:
 # Results
 ## Revision  
 In Table1, Table2: KLCC -> KRCC  
-In Table1: 0.9376 -> 0.8379
+In Table1: 0.9376 -> 0.8376
 ![matrixonpertex](https://user-images.githubusercontent.com/85012818/205043674-8a309e54-9443-4295-935c-be9d91b8ba75.png)
 
-
 ![texture-retrieval](https://user-images.githubusercontent.com/85012818/205043749-ecb5111b-1086-4e52-9acf-1fe7535eaf32.png)
-
 
 # Citation
 
